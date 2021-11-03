@@ -1,5 +1,3 @@
 <template>
-  <nav>
-    <p>金山词霸</p>
-  </nav>
+    <div>etst</div>
 </template>

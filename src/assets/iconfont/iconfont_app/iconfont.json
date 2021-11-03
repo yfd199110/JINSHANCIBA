@@ -1,0 +1,100 @@
+{
+  "id": "2904230",
+  "name": "jinshanciba-侧边栏",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "629374",
+      "name": "我的反馈",
+      "font_class": "wodefankui",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "666885",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "4810225",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "11490918",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "22385681",
+      "name": "词典库",
+      "font_class": "cidianku",
+      "unicode": "ee21",
+      "unicode_decimal": 60961
+    },
+    {
+      "icon_id": "145442",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "357743",
+      "name": "阅读，读书,书",
+      "font_class": "1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "566217",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3169790",
+      "name": "记忆",
+      "font_class": "jiyi",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "3863932",
+      "name": "翻译line",
+      "font_class": "fanyiline",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "6834895",
+      "name": "文件-笔记本",
+      "font_class": "wj-bjb",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "14769038",
+      "name": "听力题型",
+      "font_class": "tinglitixing",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "18666384",
+      "name": "书城",
+      "font_class": "book-city-fill",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
